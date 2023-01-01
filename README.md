@@ -1,14 +1,13 @@
-# pythonseparate
+# python separate code
 
 import os
 import shutil
 
-
 # Directory to search for photos
-source_dir = '\Users\AMG_Computers\Desktop\fromac\2015\2015.01.14'
+source_dir = '\Users\Computer\Desktop\....'
 
 # Directory to move photos to
-target_dir = '\Users\AMG_Computers\Desktop\fromac\2015'
+target_dir = '\Users\Computer\Desktop\....'
 
 # Iterate through all subdirectories in source_dir
 for root, dirs, files in os.walk(source_dir):
