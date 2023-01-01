@@ -1,0 +1,2 @@
+# pythonseparate
+Separate.jpg.png
